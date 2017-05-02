@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HelpPet</string>
+
+    <string name="btn_Ongs">ONGs</string>
+    <string name="btn_CliPets">Clínicas/Petshops</string>
+    <string name="btn_Eventos">Eventos</string>
+    <string name="btn_Anunc">Anúncios</string>
+    <string name="btn_Expe">Espaço Helper</string>
+    <string name="btn_Denu">Denúncias</string>
+
+    <string name="lbl_Denuncias">Denúncias</string>
+    <string name="lbl_Ongs">ONGs</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
